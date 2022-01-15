@@ -1,8 +1,8 @@
 <div>
 <a href="https://github.com/julianbustosmt">
-<img height = "170em" src="https://github-readme-stats.vercel.app/api?username=julianbustosmt&show_icons=true&count_private=true&theme=merko"/>
-<img height = "170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianbustosmt&layout=compact&count_private=true&theme=merko"/>
-  </a>
+<img align="center" height = "170em" src="https://github-readme-stats.vercel.app/api?username=julianbustosmt&show_icons=true&count_private=true&theme=merko"/>
+<img align="center" height = "170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianbustosmt&layout=compact&count_private=true&theme=merko"/>
+</a>
 </div>
 
 <div> </br>
